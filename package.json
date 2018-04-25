@@ -1,0 +1,26 @@
+{
+  "name": "endorse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "linkedin_setup;.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Flavionel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.2",
+    "chromedriver": "^2.35.0",
+    "cookie-parser": "^1.4.3",
+    "csv-parser": "^1.12.1",
+    "express": "^4.16.3",
+    "moment": "^2.21.0",
+    "path": "^0.12.7",
+    "q": "^1.5.1",
+    "request": "^2.85.0",
+    "selenium-chrome-proxy-plugin": "^0.2.2",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "tress": "^1.0.5"
+  }
+}
